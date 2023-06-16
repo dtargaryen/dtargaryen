@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtargaryen
 - 👀 I’m interested in developing website.
-- 🌱 I’m currently learning docker and C# 9.
+- 🌱 I’m currently learning Next.js and React.
 - 💞️ I’m looking to collaborate on ... uncertain.
 - 📫 How to reach me ... TBD.
 
